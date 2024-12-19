@@ -24,7 +24,7 @@ function changeHtml() {
 }
 
 function changeRoom() {
-  window.location.href = "https://ww56c9.csb.app/";
+  window.location.href = "https://jaymarai.github.io/Level09/";
 }
 
 function yipprs() {
